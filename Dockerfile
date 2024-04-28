@@ -1,1 +1,2 @@
-FROM base image from docker image
+FROM base image to use this dockerfile
+
