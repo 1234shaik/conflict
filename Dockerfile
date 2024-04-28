@@ -1,1 +1,1 @@
-FROM base image
+FROM base image from docker image
